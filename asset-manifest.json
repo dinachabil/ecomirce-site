@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecomirce-site/static/css/main.10909101.css",
+    "main.js": "/ecomirce-site/static/js/main.9d629261.js",
+    "index.html": "/ecomirce-site/index.html",
+    "main.10909101.css.map": "/ecomirce-site/static/css/main.10909101.css.map",
+    "main.9d629261.js.map": "/ecomirce-site/static/js/main.9d629261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10909101.css",
+    "static/js/main.9d629261.js"
+  ]
+}
